@@ -1,0 +1,14 @@
+{
+    "noticias":[
+        {
+            "titulo": "Primeira Noticia",
+            "noticia": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veritatis nostrum harum nobis voluptas incidunt voluptatibus nemo, quidem eos porro, distinctio ullam. Ipsam ad numquam temporibus soluta quis? At, iusto corporis?"
+        },
+        {
+            "titulo": "Segunda Noticia",
+            "noticia": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veritatis nostrum harum nobis voluptas incidunt voluptatibus nemo, quidem eos porro, distinctio ullam. Ipsam ad numquam temporibus soluta quis? At, iusto corporis?"
+    }
+
+
+    ]
+}
